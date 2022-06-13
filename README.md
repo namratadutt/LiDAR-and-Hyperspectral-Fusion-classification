@@ -3,7 +3,7 @@
 
 <hr>
 <p align="center">
-<img width="500px" align="center" alt="fusion" src="fusion.png">
+<img width="550px" align="center" alt="fusion" src="fusion.png">
 </p>
 
 #### Steps to Run:
