@@ -2,9 +2,9 @@
 ### Landcover classifcation using the fusion of hyperspectral data and LiDAR neighbourhood region of NxN surrounding a pixel.
 
 <hr>
-
+<p align="center">
 <img width="500px" align="center" alt="fusion" src="fusion.png">
-
+</p>
 
 #### Steps to Run:
 
