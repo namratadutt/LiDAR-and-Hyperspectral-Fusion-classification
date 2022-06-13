@@ -3,6 +3,9 @@
 
 <hr>
 
+<img width="100px" alt="fusion" src="fusion.png">
+
+
 #### Steps to Run:
 
 1. Create a virtual environment using command: ```virtualenv myenv```
