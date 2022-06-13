@@ -1,5 +1,5 @@
 # LiDAR-and-Hyperspectral-Fusion-classification
-### Landcover classifcation using LiDAR neighbourhood region of NxN surrounding a pixel and Hyperspectral.
+### Landcover classifcation using the fusion of hyperspectral data and LiDAR neighbourhood region of NxN surrounding a pixel.
 
 <hr>
 
